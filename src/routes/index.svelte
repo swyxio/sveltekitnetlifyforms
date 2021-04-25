@@ -6,9 +6,9 @@
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
 
 <!-- "/src/routes/test-form.svelte" -->
-<form name="test" method="post" action="/success">
+<form name="test" method="post" netlify>
     <input type="hidden" name="form-name" value="test" />
-    <input type="text" name="bot-field" />
+    <!-- <input type="text" name="bot-field" /> -->
     <p>
         <label>Your Name: <input type="text" name="name" /></label>
     </p>
