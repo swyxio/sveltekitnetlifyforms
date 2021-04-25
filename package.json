@@ -14,5 +14,6 @@
   "type": "module",
   "dependencies": {
     "@sveltejs/adapter-netlify": "^1.0.0-next.9"
-  }
+  },
+  "license": "MIT"
 }
