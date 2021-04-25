@@ -2,8 +2,8 @@
 	export const prerender = true;
 </script>
 
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>SvelteKit + Netlify Forms demo</h1>
+<p>View <a href="https://github.com/sw-yx/sveltekitnetlifyforms">https://github.com/sw-yx/sveltekitnetlifyforms</a> for source</p>
 
 <!-- "/src/routes/test-form.svelte" -->
 <form name="test" method="post" netlify>
